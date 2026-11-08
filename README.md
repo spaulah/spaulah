@@ -3,7 +3,7 @@
 **Software engineer & enterprise AI architect** — 30+ years shipping production systems, from multi-threaded payment servers to agentic AI on Azure and Microsoft 365. I work directly with clients to turn messy business processes into reliable software, and I stay hands-on in the code.
 
 - 🔭 **Now:** Senior consultant & cloud architect delivering multi-cloud AI solutions (Azure AI Foundry, AWS, GCP, Cloudflare Workers), Copilot Studio agents, and containerized enterprise services
-- 🏗️ **Building:** [Ghzelle](https://ghzelle.com) — background-job platforms, a quantitative trading engine, and [ShipPromptly](https://shippromptly.app), a hub for deploying AI-built apps
+- 🏗️ **Building:** [Ghzelle](https://ghzelle.com) — background-job platforms, [Quantito](https://quantito.app), a quantitative trading engine, and [ShipPromptly](https://shippromptly.app), a hub for deploying AI-built apps
 - 🧠 **Focus:** multi-cloud architectures (AWS/GCP/Azure), Kubernetes & Docker, agentic AI/RAG, microservices, and zero-downtime background processing
 - 🌱 **Open-sourcing soon:** a Power Automate flow-analysis AI tool, a Python algo-trading bot, and a pluggable .NET job runner
 
