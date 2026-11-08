@@ -16,7 +16,7 @@
 | **Agentic AI & RAG** | Multi-agent workflows (AutoGen, LangChain, Azure AI Foundry), Copilot Studio agents, RAG over enterprise document stores with Elasticsearch / Azure AI Search |
 | **Enterprise document systems** | Architect & team lead (non-profit, 2008–present) on large-scale custom document management systems; M365/SharePoint migrations and governance |
 | **Distributed & financial systems** | Multi-threaded transaction server and high-availability distributed database for international money-transfer networks |
-| **Background processing** | Ghg.JobRunner — pluggable job host that loads/unloads versioned job assemblies without downtime, with a fully automated CI/CD pipeline |
+| **Background processing** | Pluggable job host that loads/unloads versioned job assemblies without downtime, with a fully automated CI/CD pipeline |
 | **Quant trading** | Python algorithmic trading bots with backtesting and automated risk management |
 
 #### Tech
