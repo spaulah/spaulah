@@ -1,5 +1,3 @@
-### Hi, I'm Sealtiel 👋
-
 **Software engineer & enterprise AI architect** — 30+ years shipping production systems, from multi-threaded payment servers to agentic AI on Azure and Microsoft 365. I work directly with clients to turn messy business processes into reliable software, and I stay hands-on in the code.
 
 - 🔭 **Now:** Senior consultant & cloud architect delivering multi-cloud AI solutions (Azure AI Foundry, AWS, GCP, Cloudflare Workers), Copilot Studio agents, and containerized enterprise services
