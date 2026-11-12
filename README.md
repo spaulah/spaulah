@@ -19,7 +19,7 @@
 
 #### Tech
 
-- **Cloud & Edge:** AWS · GCP / Firebase · Azure · Cloudflare (Workers, Pages, D1, KV)
+- **Cloud & Edge:** AWS · GCP / Firebase · Azure · Cloudflare (Workers, Pages)
 - **Containers & DevOps:** Kubernetes · Docker · Container Apps / Serverless · CI/CD (GitHub Actions, Azure DevOps) · IaC (Bicep, Terraform)
 - **AI & Data:** Multi-cloud AI services · Azure AI Foundry · Copilot Studio · AutoGen · LangChain · Vector / Hybrid Search · SQL Server · PostgreSQL · Elasticsearch
 - **Languages & Frameworks:** Python · C# / .NET · TypeScript / JavaScript · React · Go · SQL
