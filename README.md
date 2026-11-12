@@ -10,7 +10,7 @@
 
 | Area | Highlights |
 |---|---|
-| **Multi-Cloud & Container Architecture** | Architected and deployed microservices & AI workloads across AWS (ECS/EKS, Lambda, S3), GCP/Firebase, Azure, and Cloudflare Workers/Pages; containerized deployments via Docker & Kubernetes |
+| **Multi-Cloud & Container Architecture** | Architected and deployed microservices & AI workloads across AWS, GCP/Firebase, Azure, and Cloudflare Workers/Pages; containerized deployments via Docker & Kubernetes |
 | **Agentic AI & RAG** | Multi-agent workflows (AutoGen, LangChain, Azure AI Foundry), Copilot Studio agents, hybrid search & RAG over enterprise stores using Vector DBs, Elasticsearch, Azure AI Search, and Cloudflare Vectorize |
 | **Enterprise document systems** | Architect & team lead (non-profit, 2008–present) on large-scale custom document management systems; M365/SharePoint migrations and governance |
 | **Distributed & financial systems** | High-availability distributed databases, edge network workers, and multi-threaded transaction servers for international money-transfer networks |
