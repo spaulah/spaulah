@@ -3,7 +3,6 @@
 - 🔭 **Now:** Senior consultant & cloud architect delivering multi-cloud AI solutions (Azure AI Foundry, AWS, GCP, Cloudflare Workers), Copilot Studio agents, and containerized enterprise services
 - 🏗️ **Building:** [Ghzelle](https://ghzelle.com) — background-job platforms, [Quantito](https://quantito.app), a quantitative trading engine, and [ShipPromptly](https://shippromptly.app), a hub for deploying AI-built apps
 - 🧠 **Focus:** multi-cloud architectures (AWS/GCP/Azure), Kubernetes & Docker, agentic AI/RAG, microservices, and zero-downtime background processing
-- 🌱 **Open-sourcing soon:** a Power Automate flow-analysis AI tool and a Python algo-trading bot
 
 ---
 
